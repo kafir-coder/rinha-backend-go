@@ -1,2 +1,1 @@
-# rinha-backend-go
-Rinha de Backend na linguagem mais idiomática do mercado 
+# Rinha de Backend na linguagem mais idiomática do mercado 
